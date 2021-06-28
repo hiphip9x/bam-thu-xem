@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'ăn thì ăn mà không ăn thì ăn <33333333',
     mess: 'Anh biết mà.',
     messDesc: 'ăn đi nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiii lun <3',
     messLink: 'https://caunhan.wordpress.com/category/anh-cut-dai-2/https://caunhan.wordpress.com/category/anh-cut-dai-2/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
